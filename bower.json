@@ -1,0 +1,25 @@
+{
+  "name": "ko-inject-context",
+  "version": "1.0.0",
+  "authors": [
+    "Yurij Mikhalevich <0@39.yt>"
+  ],
+  "description": "knockout context injector plugin (injects context into component's Model, so it will be accessable from js code)",
+  "main": "index.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "knockout"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/39dotyt/ko-inject-context",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ]
+}
